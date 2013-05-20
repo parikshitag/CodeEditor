@@ -3,7 +3,7 @@ CodeEditor
 
 Code Editor is a source code editor and Notepad replacement that supports tabbed editing. It is written in Java and thus supports multiple platforms.
 
-more @<a href="https://sourceforge.net/projects/code-editor/">Sourceforge</a>
+more @<a href="https://sourceforge.net/projects/code-editor/" target="_blank">Sourceforge</a>
 
 Features
 ========
